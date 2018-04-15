@@ -4150,7 +4150,7 @@ layers:
                     font:
                         family: global.text_font_family
                         size: [[1,11px],[3,14px]]
-                        fill: [0.762,0.525,0.428]
+                        fill: [0.62,0.62,0.62]
                         transform: uppercase
             continent-spacer:
                 filter: { $zoom: { min: 2 } }
